@@ -1,1 +1,2 @@
-# TreasureHunter
+# Treasure Hunter
+Treasure Hunter is a 3D platformer for PC. The player has to pass 2 levels in the allotted time, collect game items, overcome various obstacles and earn game points to find the treasure of pirates.
